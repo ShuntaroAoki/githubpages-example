@@ -3,3 +3,5 @@
 ## Hello, world!
 
 Hello, GitHub!
+
+[Test page](test.md)
